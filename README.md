@@ -1,0 +1,2 @@
+# Enhanced-AES
+This project is implemented in Verilog HDL using Xilinx ISE design suite and also in MATLAB.the project is split into two modules i.e., matlab and verilog.each module has all layers related to encryption and decryption.the input data and key(each 128-bit long) need to be given through a testbench in verilog. In verilog implementation of AES,caesar cipher is used to enhance security. 
